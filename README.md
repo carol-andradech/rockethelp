@@ -1,14 +1,10 @@
 
-<div align="center">
-<img src="scr/assets/logo_primary.svg" width="60" height="60"  />
-</div>
-<br>
 <h1 align="center">
 Rocket Help
 </h1>
 
 <div align="center">
-<img src="src/assets/app-recorder.gif" width="250" height="500"/>
+<img src="src/assets/app-recorder.gif" width="300" height="600"/>
 </div>
 
 ## About Rocket Help
@@ -19,7 +15,7 @@ Then, we have the page to handle the requests, if they are open or closed. And w
 <br> There's a button to finish the request, that requires offering the solution of the problem, and saves the time it was closed. <br>
 And the page to make the request. 
 
-## Tecnologies 
+## Components 
 - React Native 
 - TypeScript 
 - Firebase
